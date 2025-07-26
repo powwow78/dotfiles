@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=imv Image Viewer
+Comment=Lightweight image viewer
+Exec=imv %f
+Terminal=false
+Type=Application
+MimeType=image/png;image/jpeg;image/jpg;image/gif;image/bmp;image/tiff;
+Icon=imv
+Categories=Graphics;Viewer;ImageViewer;
